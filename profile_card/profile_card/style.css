@@ -1,0 +1,77 @@
+.pro{
+    margin: 10px;
+}
+.card{
+    margin-top: 10px;
+    width: 1300px;
+    background: rgb(235, 230, 222);
+    height: 800px;
+}
+.profileimgpart{
+    margin-top: 30px;
+    margin-left: 53px;
+    width: 500px;
+    height: 700px;
+    background: white;
+    border-radius: 10px;
+    
+}
+img{
+    width: 100px;
+    height: 50px;
+}
+.button{
+    width: 200px;
+    height: 50px;
+}
+input{
+    width: 80px;
+}
+img{
+    margin: auto;
+    width: 176px;
+    margin-left: 162px;
+    border-radius: 89px;
+    height: 168px;
+}
+.header{
+    text-align: center;
+    font-family: "Montserrat";
+}
+.title{
+    text-align: center;
+    font-family: "Roboto Condensed";
+
+}
+.button{
+    font-family: "Montserrat";
+}
+.description{
+    font-family: "Montserrat";
+    text-align: center;
+}
+.projects{
+    margin-top: 80px;
+    font-family: "Montserrat";
+    text-align: center;
+}
+span{
+    font-weight: bold;
+}
+footer{
+    margin-top: 90px;
+}
+.btn1{
+    width: 150px;
+    background: rgb(241, 225, 225);
+    font-family: "Roboto Condensed";
+}
+.btn2{
+    width: 150px;
+    background: black;
+    font-family: "Roboto Condensed";
+}
+.outpara{
+    margin-top: 100px;
+    font-size:  80px;
+}
